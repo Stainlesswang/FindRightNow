@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/web.xml=gbk
+encoding//src/messageResource.properties=gbk
+encoding//src/org/crazyit/auction/action/AddBidAction.properties=gbk
+encoding//src/org/crazyit/auction/action/AddItemAction.properties=gbk
